@@ -18,7 +18,7 @@ import android.view.SurfaceView;
 public class SpriteSheetAnimation extends Activity {
 
     // Our object that will hold the view and
-    // the sprite sheet animation logic
+    // the sprite sheet animation logical
     GameView gameView;
 
     @Override
